@@ -2,7 +2,7 @@
 ![](https://media.discordapp.net/attachments/535310988832931870/803093609397223424/5URUZEmCxcAAAAASUVORK5CYII.png)\
 Rich presence for promoting JavaScript Universe.
 ## What's Rich Presence?
-> Rich Presence is a new feature from Discord that allows you to surface unique, interesting, and actionable data inside a Discord user’s profile when they play your game! - **Discord RPC Docs**
+> Rich Presence is a new feature from Discord that allows you to surface unique, interesting, and actionable data inside a Discord user’s profile when they play your game! - **Discord Rich Presence Documentation**
 
 Rich presence is quite common on Discord and you might have seen it in action on quite a few users.  Whether they're listening to Spotify, playing the latest and greatest game, or doing something else like coding, you might see a small card underneath the user's profile stating what the user is doing.  These Rich Presences look quite cool and users have found ways to control the Rich Presence to their liking for customization purposes.
 ## Quickstart Guide:
